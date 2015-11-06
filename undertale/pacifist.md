@@ -123,7 +123,7 @@ Take the Underground Tunnel to the other side of town.
 ### Papyrus
 It is faster to let him capture (kill) you three times (by 45 seconds!).
 
-Do this by using "Check" 3 times and running into 5 bones in the first fight. You will start out "blue" in the next two fights, proceed to spare him as normal.
+Do this by using `Check` 3 times and running into 5 bones in the first fight. You will start out "blue" in the next two fights, proceed to `Spare` him as normal.
 
 Head back to his home to hang out with him.
 
@@ -163,9 +163,9 @@ You can manipulate these spears by moving all the way up or all the way down in 
 
 ### Dummy!
 - Mash `SPARE`.
-- Hit him with as much cotton as possible. He can be three-cycled, although this is difficult.
-- Unlike the cotton, which is hit-based, the rockets are move-based.
-- Hit the knife to get rid of it faster.
+- Hit him with as much cotton as possible. He can be two-cycled, although this is difficult.
+- Unlike the cotton, which is hit-based, the rockets will always take 4 turns.
+- Getting hit by the knife does not end the turn any faster.
 
 `SAVE` here to heal to full.
 
@@ -176,11 +176,10 @@ Memorize the pathing for the Mushroom Room and the Lantern Room. It is possible 
 Do not help Monster Kid from the bridge. It's faster. (Sorry!)
 
 ### Undyne
-- New strat to skip the first dialog and encounter. Simply walk up to the left edge so that the character's left hand is slightly over the border. http://webm.host/5d78a/
-- Strat that saves ~6 seconds if your menuing is garbage, requires having bought a healing item in Snowdin: https://youtu.be/pRMu_rzQR1A
-- Hit `Challenge` as it makes the spears go faster. After Undyne unleashes her "kindergarten" attack it's faster to mash spare as her attacks will be at max speed for the rest of the fight.
-- Always block the last spear of an attack as Undyne's turn ends as soon as the last spear disappears.
-- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. 
+- New strat to skip the first dialog and encounter. Simply walk up to the left edge so that the character's left hand is slightly over the border and move up to the trigger. Once Undyne's dialogue finishes hold down until you reach the room transition and immediately move up.  http://webm.host/5d78a/
+- Intentionally get hit by the at least one spear in Undyne's first attack pattern four times. Always block the last spear in any of her attacks as Undyne's turn ends as soon as the last spear disappears. https://youtu.be/pRMu_rzQR1A
+- `Challenge` will make the spears move faster for the first four turns, however, the extra time spent menuing is actually the same or even slower than just mashing `Spare`. After Undyne unleashes her "kindergarten" attack the spears will remain at max speed for the rest of the fight, regardless of how many times you `Challenge`.
+- `Flee` ASAP. When using both of these skips Undyne should only catch you twice: once in the second room for the main fight and once in the third room right before Papyrus' phone call. If you don't mash through the phone call fast enough she can catch you again at the end of the room.
 - During the final phase, you want to finish off at `1 HP` by getting hit by three arrows and a spear at the end. This makes MTT's quiz go faster.
 
 Be sure to water your Undyne!
@@ -216,7 +215,7 @@ Pick up the `Stained Apron` (downward path after going up).
 
 ### Jumping Puzzle
 In case you forgot, left, down, down, up down, left, up, up, left.
-- Alternatively, there's a glitch you can do that requires you to open the menu the frame after you land on the platform. Wait for the diagonal steam jet behind you to begin to disappear for a visual cue. http://webm.host/b71a6/
+- Alternatively, there's a glitch you can do that requires you to open the menu the frame after you land on the platform. Watch the bottom of the steam jet that launches you for a visual cue when it begins to fade. http://webm.host/b71a6/
 - Consistent setup I found (for me) was mashing CTRL/C as you land onto the platform.
 
 ### Royal Guard
@@ -321,6 +320,7 @@ Once you see the first bit of dialogue with Sans, you can quit the game and relo
 ## My World
 
 ### Omega Flowey
+It's not possible to die during soul phases, brave the damage to hit each `ACT` faster.
 - Phase 1: Knives go the direction `ACT` will be.
 - Phase 2: Top left of the room for the `ACT` during the gloves.
 - Phase 3: All the way to the right to get to the `ACT`.
