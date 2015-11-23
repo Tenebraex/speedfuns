@@ -274,7 +274,7 @@ Walk right past Lesser Dog. Use the `SAVE` to heal to full if you took damage fr
 - Take the Underground Tunnel to the other side of town and continue right to Papyrus.
 
 ### Papyrus
-- `Check` Papyrus for 3 turns and run into 5 bones to until you have `1 HP`.
+- `Check` Papyrus for 3 turns and run into 5 bones to until you have `1 HP`. `Flirt` also works, but the date is slower.
 - It is faster to let him capture you by losing the fight three times.
 - Avoid the chew toy and exit the garage. Go back to Papyrus to start the second fight.
 - You start the fight "blue" now. `Spare` Papyrus for 3 turns and run into 5 bones to until you have `1 HP` again.
