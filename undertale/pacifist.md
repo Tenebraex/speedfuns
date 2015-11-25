@@ -1,3 +1,6 @@
+#OUTDATED. 
+####PLEASE USE https://github.com/speedfuns/undertale/blob/master/pacifist.md
+
 # Undertale - True Pacifist Route
 
 ## Records
